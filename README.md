@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Alejandro+Benavides!;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;Electr%C3%B3nica%2C+firmware+y+control+industrial.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Alejandro+Benavides!;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;IoT%2C+firmware+y+software+embebido.">
 </h1>
 
 ---
@@ -7,9 +7,9 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Automatización y Robótica**
-- ⚙️ Entusiasta de los sistemas embebidos y control industrial
+- ⚙️ Entusiasta de los sistemas embebidos y el control industrial
 - 🔧 Me gusta trabajar con **Raspberry Pi Pico**, **Arduino**, **PLC**
-- 🧠 Fuerte en lógica, electrónica y programación en bajo nivel
+- 🧠 Fuerte en lógica, programación de bajo nivel y firmware
 - 🦾 Disciplina + pasión dentro y fuera del laboratorio (OCR 💪)
 
 ---
