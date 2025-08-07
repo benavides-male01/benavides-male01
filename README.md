@@ -1,16 +1,14 @@
-<h1 align="center">🤖 Benavides | Automatización y Robótica</h1>
-
-<p align="center">
-  Estudiante apasionado por los sistemas embebidos, la electrónica y el control industrial ⚙️
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Benavides!;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;Apasionado+por+la+electr%C3%B3nica+y+el+control+industrial.">
+</h1>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudio Automatización y Robótica  
+- 🎓 Estudiante de Automatización y Robótica  
 - 🔌 Trabajo con Raspberry Pi Pico, Arduino, PLC  
-- 🧠 Me interesan el control de procesos, IoT y firmware  
+- 🧠 Apasionado por sistemas embebidos, IoT y firmware  
 - 🦾 Disciplina dentro y fuera de la compu (OCR 💪)
 
 ---
@@ -30,10 +28,3 @@
 - 🌡️ Sensor + LCD + Protocolo 1-Wire
 - 🌀 Control de servos desde PC por UART
 
----
-
-<p align="center">
-  <a href="https://www.instagram.com/benavides_al">
-    <img src="https://img.shields.io/badge/@benavides_al-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
