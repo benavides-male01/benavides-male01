@@ -7,10 +7,10 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante de **Automatización y Robótica**
-- ⚙️ Entusiasta de los sistemas embebidos y el control industrial
-- 🔧 Me gusta trabajar con **Raspberry Pi Pico**, **Arduino**, **PLC**
-- 🧠 Fuerte en lógica, programación de bajo nivel y firmware
-- 🦾 Disciplina + pasión dentro y fuera del laboratorio (OCR 💪)
+- ⚙️ Apasionado por **sistemas embebidos** y **control industrial**
+- 🔧 Experiencia con **Raspberry Pi Pico**, **Arduino** y **PLC**
+- 🧠 Sólida base en programación de bajo nivel, firmware y electrónica
+- 🦾 Disciplina y constancia dentro y fuera del laboratorio (OCR 💪)
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 🧬 Lenguajes
 <p>
-  <img src="https://img.shields.io/badge/C-00599C? style=for-the-badge&logo=c&logo Color=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Ladder-FFBF00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,9 +41,9 @@
 
 ## 🚀 Proyectos destacados
 
-- 🔁 Comunicación entre múltiples placas vía RS-485  
-- 🌡️ Sensor 1-Wire + LCD I2C + UART  
-- 🌀 Control de servomotores desde PC por protocolo UART  
-- 📦 Clasificación de objetos según temperatura
+- 🔁 **Comunicación RS-485** entre múltiples Raspberry Pi Pico  
+- 🌡️ **Medición de temperatura** con sensor 1-Wire, LCD I2C y comunicación UART  
+- 🌀 **Control de servomotores** vía protocolo UART desde PC  
+- 📦 **Clasificación de objetos por temperatura** con brazo robótico
 
 ---
