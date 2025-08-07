@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Benavides!;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;Apasionado+por+la+electr%C3%B3nica+y+el+control+industrial.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Alejandro Benavides !;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;Apasionado+por+la+electr%C3%B3nica+y+el+control+industrial.">
 </h1>
 
 ---
