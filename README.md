@@ -42,7 +42,7 @@
 ## 🚀 Proyectos destacados
 
 -  **Comunicación RS-485** entre múltiples Raspberry Pi Pico  
-- 🌡 **Medición de temperatura** con sensor 1-Wire, LCD I2C y comunicación UART  
+-  **Medición de temperatura** con sensor 1-Wire, LCD I2C y comunicación UART  
 -  **Control de servomotores** vía protocolo UART desde PC  
 -  **Clasificación de objetos por temperatura** con brazo robótico
 
