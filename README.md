@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Alejandro+Benavides!;Estudiante+de+Automatizaci%C3%B3n+y+Rob%C3%B3tica.;IoT%2C+firmware+y+software+embebido.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Alejandro+Benavides!;Automation+%26+Robotics+Student.;IoT%2C+Firmware+and+Embedded+Software.">
 </h1>
 
 ---
 
-## Sobre mí
+## About Me
 
-- 🎓 Estudiante de **Automatización y Robótica**
-- ⚙️ Apasionado por **sistemas embebidos** y **control industrial**
-- 🔧 Experiencia con **Raspberry Pi Pico**, **Arduino** y **PLC**
-- 🧠 Sólida base en programación de bajo nivel, firmware y electrónica
-- 🦾 Disciplina y constancia dentro y fuera del laboratorio (OCR 💪)
+- 🎓 **Automation and Robotics** student  
+- ⚙️ Passionate about **embedded systems** and **industrial control**  
+- 🔧 Experience with **Raspberry Pi Pico**, **Arduino**, and **PLCs**  
+- 🧠 Strong foundation in **low-level programming, firmware, and electronics**  
+- 🦾 Discipline and consistency inside and outside the lab (OCR 💪)
 
 ---
 
-## Tecnologías y herramientas
+## Technologies & Tools
 
-### Lenguajes
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Plataformas y herramientas
+### 🛠️ Platforms & Tools
 <p>
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
@@ -39,11 +39,9 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
--  **Comunicación RS-485** entre múltiples Raspberry Pi Pico  
--  **Medición de temperatura** con sensor 1-Wire, LCD I2C y comunicación UART  
--  **Control de servomotores** vía protocolo UART desde PC  
--  **Clasificación de objetos por temperatura** con brazo robótico
-
----
+- **RS-485 communication** between multiple Raspberry Pi Pico boards  
+- **Temperature measurement system** using a 1-Wire sensor, I2C LCD, and UART communication  
+- **Servo motor control** via UART protocol from a PC  
+- **Temperature-based object classification** using a robotic arm
