@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 **Automation and Robotics** student  
+- 🎓 **Automation and Robotics** technician  
 - ⚙️ Passionate about **embedded systems** and **industrial control**  
 - 🔧 Experience with **Raspberry Pi Pico**, **Arduino**, and **PLCs**  
 - 🧠 Strong foundation in **low-level programming, firmware, and electronics**  
